@@ -1,0 +1,15 @@
+{
+  "name": "cyberpal-webusb",
+  "version": "1.0.0",
+  "description": "Open-source browser-based iOS DFU & Recovery WebUSB diagnostic utility",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --host"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  },
+  "license": "MIT"
+}
